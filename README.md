@@ -23,7 +23,7 @@ GIS Software: QGIS for data visualization and pre-processing
 
 Environment: Jupyter Notebooks
 
-#Workflow & Methodology
+# Workflow & Methodology
 The project follows a standard geospatial machine learning workflow:
 
 Data Collection: Gathered diverse datasets including:
@@ -52,7 +52,7 @@ Distance to Rivers
 
 Distance to Fault Lines
 
-#Model Training:
+# Model Training:
 
 A balanced dataset was created using historical landslide points (positive class) and randomly sampled non-landslide points (negative class).
 
@@ -64,14 +64,14 @@ The trained model was used to predict the landslide susceptibility probability f
 
 The final map was classified into five zones: Very Low, Low, Medium, High, and Very High risk.
 
- #Key Features
+ # Key Features
 High-Resolution Risk Zonation: Provides a detailed (30m) susceptibility map, offering granular insights compared to traditional, broader maps.
 
 Feature Importance Analysis: Identifies the most significant contributing factors to landslides in the region (e.g., is slope more important than land cover?).
 
 Rainfall Threshold Calculation: Establishes a baseline for the amount of rainfall that could trigger events in high-risk zones, forming the basis for an early warning system.
 
- #Future Work
+ # Future Work
 Integrate near-real-time rainfall data from IMD or satellite sources via an API.
 
 Expand the study area to cover other vulnerable districts in Himachal Pradesh.
@@ -80,10 +80,10 @@ Experiment with deep learning models (e.g., Convolutional Neural Networks) for p
 
 Develop a simple web application using Streamlit or Flask to visualize the map and the real-time risk.
 
-#License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-#Acknowledgements
+# Acknowledgements
 A sincere thank you to the following organizations for making their data publicly available:
 
 Indian Space Research Organisation (ISRO)
