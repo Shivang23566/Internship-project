@@ -1,11 +1,6 @@
 # Internship-project
-Landslide Susceptibility Mapping & Early Warning System for Himachal Pradesh
+Landslide Susceptibility Mapping & Early Warning System 
 A data-driven project using machine learning and geospatial analysis to identify landslide-prone areas in the Indian Himalayas and develop a framework for a rainfall-based early warning system.
-
-# Motivation
-As a resident of Una, Himachal Pradesh, I have firsthand experience with the devastating impact of landslides on life, infrastructure, and the environment. This region's complex geology and increasing extreme weather events make it one of the most vulnerable areas. This project was born from a desire to use data science skills to address this critical local problem, moving from reactive disaster response to proactive risk mitigation.
-
-The goal is to create a practical, data-backed tool that can help local authorities and communities better understand and prepare for landslide risks.
 
 # Project Goals
 Develop a high-resolution Landslide Susceptibility Map for a chosen district (e.g., Shimla) by identifying the static geological and topographical factors that contribute to slope instability.
